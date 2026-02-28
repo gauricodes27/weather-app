@@ -89,14 +89,6 @@ You can deploy this app using:
 
 ---
 
-## 📸 Screenshots
-
-- Home screen
-- Search suggestion screen
-- Final weather result screen
-
----
-
 ## 👨‍💻 Author
 
 Your Name  

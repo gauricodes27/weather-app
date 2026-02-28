@@ -91,7 +91,7 @@ You can deploy this app using:
 
 ## 👨‍💻 Author
 
-Your Name  
+Gauri Gadadhe  
 GitHub: https://github.com/gauricodes27
 
 ---
